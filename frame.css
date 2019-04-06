@@ -1,0 +1,113 @@
+body{
+    font-family: 'Noto Sans KR', sans-serif;
+    padding:0px;
+    margin:0px;
+}
+#header {
+    background-attachment: scroll;
+    background-color: #444;
+    color: rgba(255, 255, 255, 0.75);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 18em 0 16em 0;
+    background-image: url(./images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    position: relative;
+    cursor: default;
+
+}
+h1 {
+    border-bottom: 2px solid;
+    font-family: 'Jua', sans-serif;
+}
+
+.second-header2 {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 40px;
+}
+
+.header2-index{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.frame1 {
+    background-attachment: scroll;
+    padding:80px;
+    margin:50px;
+    background-color: white;
+}
+.second-header{
+    padding: 150px;
+    margin: 20px;
+    background-color :white;
+    text-align: center;
+}
+
+.btn btn-outline-secondary{
+    margin:30px;
+}
+
+.header-p{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+.card-group {
+    padding: 80px;
+    margin: 50px;
+}
+.card-title {
+    font-weight: bold;
+    font-family: 'Jua', sans-serif;
+}
+
+.card-text {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.introduce-main {
+    padding: 80px;
+    margin: 50px;
+
+}
+
+.introduce-1 {
+    position: left;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 25px;
+    
+}
+
+li {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 25px;
+}
+
+.introduce-title {
+    padding-top: 20px;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 30px;
+}
+
+.interesting-title {
+    padding-top: 20px;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 30px;
+}
+
+.SNS{
+    padding-top: 20px;
+}
+
+.SNS-title {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 30px;
+}
